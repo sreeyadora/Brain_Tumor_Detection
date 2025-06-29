@@ -18,11 +18,11 @@ A deep learning project that classifies MRI scans to detect brain tumors using a
 ---
 
 🛠 Tech Stack
-- **Python**
-- **TensorFlow & Keras** – for building the CNN
-- **OpenCV** – for image loading & preprocessing
-- **NumPy, Pandas** – data manipulation
-- **Matplotlib & Seaborn** – visualization
+- Python
+- TensorFlow & Keras – for building the CNN
+- OpenCV – for image loading & preprocessing
+- NumPy, Pandas – data manipulation
+- Matplotlib & Seaborn – visualization
 
 ---
 
